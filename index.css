@@ -16,7 +16,10 @@ h1 {
 }
 
 .logoContact {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 10px;
   display: inline-block;
+}
+
+.logoContact:hover {
+ opacity: 0.8;
 }
